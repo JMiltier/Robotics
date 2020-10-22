@@ -5,4 +5,4 @@ Sparki goes on an adventure! Sparki rotates until an object is found (or placed)
 
 
 ### Machine state for Sparki's adventure
-[State Diagram](Machine state drawing (Sparki).png)
+![State Diagram](Machine%20state%20drawing%20(Sparki).png)
